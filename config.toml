@@ -1,4 +1,4 @@
-baseurl = "https://agilesmexico.github.io"
+baseurl = "http://agilesmexico.github.io/"
 title = "Universal"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
