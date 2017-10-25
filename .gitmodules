@@ -1,3 +1,0 @@
-[submodule "themes"]
-	path = themes/agile-theme
-	url = git@github.com:AgilesMexico/hugo-universal-theme.git
