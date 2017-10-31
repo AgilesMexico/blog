@@ -143,15 +143,15 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "La comunidad"
-    subtitle = "<p class='lead text-center'>Estos son algunos breves testimonios sobre organizadores y miembros activos de la comunidad.</p>"
+    subtitle = "<p class='lead text-center'><b>Ágiles México</b> es una comunidad en la que existe un <b>ambiente de confianza, seguro y diverso</b> para <b>compartir experiencias</b> en las que vivamos los valores y principios de la agilidad. Queremos <i>“Aspiramos?”</i> a crecer juntos por medio de la <b>colaboración</b> y la <b>generación de valor</b>.</p>"
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    icon = "fa fa-hand-peace-o"
+    title = "¡Asiste al próximo evento: Ágiles México 2017!"
+    subtitle ="Las Diferentes Comunidades Ágiles en México anuncian las primeras Jornadas Nacionales Ágiles que se realizarán en la CDMX los días 11 y 12 de noviembre de. El evento se llevará a cabo en la explanada de la ESCOM-IPN, así como en distintas aulas de la universidad."
+    link_url = "https://www.meetup.com/es/Agile-Mexico-Meetup/events/243284908/"
+    link_text = "Inscripciones Vía Meetup Aquí (Disponible Lista de Espera)"
 
 [params.clients]
     enable = true
