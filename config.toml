@@ -151,7 +151,7 @@ paginate = 10
     title = "¡Asiste al próximo evento: Ágiles México 2017!"
     subtitle ="Las Diferentes Comunidades Ágiles en México anuncian las primeras Jornadas Nacionales Ágiles que se realizarán en la CDMX los días 11 y 12 de noviembre de. El evento se llevará a cabo en la explanada de la ESCOM-IPN, así como en distintas aulas de la universidad."
     link_url = "https://www.meetup.com/es/Agile-Mexico-Meetup/events/243284908/"
-    link_text = "Inscripciones Vía Meetup Aquí (Disponible Lista de Espera)"
+    link_text = "Inscripciones Vía Meetup Aquí (CUPO CERRADO)"
 
 [params.clients]
     enable = true
