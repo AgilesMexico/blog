@@ -137,6 +137,14 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
+[params.manifest]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Manifiesto Ágil"
+    subtitle = "<p class='lead text-center'><ul><li>Interacción entre las personas sobre procesos y herramientas<li><li>Software funcionando sobre documentación extensiva</li><li>Colaboración con el cliente sobre negociación contractual</li><li>Respuesta al cambio sobre seguir un plan</li></ul></p>"
+
 [params.testimonials]
     enable = true
     # All testimonials are defined in their own files. You can find example items
