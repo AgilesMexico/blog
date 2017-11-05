@@ -50,5 +50,8 @@ Plase check before the markdown syntax.
 
 If you need to add images, please add the resources in *static* folder
 
-This repository was started by @carlogilmar and @onahump, if you can't understand something please contact us in twiteer or by the slack channel.
+This repository was started by @carlogilmar and @onahump, if you can't understand something please contact us in twitter or by the slack channel.
 
+#### Do you want to help us to improve this project?
+
+Check the issues labels, and send your pull request. We will happy to receive your efforts.
