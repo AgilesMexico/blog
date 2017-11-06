@@ -117,7 +117,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = "<small>Ultima Actualización: 28/10/2017 23:45</small>"
+    text = "<small>Ultima Actualización: 5/11/2017 21:51</small>"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -170,5 +170,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Somos una comunidad sin fines de lucro que busca expander y promover la agilidad a través de eventos mensuales."
+    title = "Blog de la comunidad"
+    subtitle = "Aquí también compartimos material, experiencias y conocimiento."
