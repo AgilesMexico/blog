@@ -1,5 +1,5 @@
 weight: 8
 name: "¿Te interesa comparti un tema?"
-icon: "fa fa-lightbulb-o"
+icon: "fa fa-star"
 description: "<a href='#' class='btn btn-primaty'> ¡Quiero compartir un tema!</a>"
 
