@@ -3,7 +3,7 @@ title = "El Sketchnoting provoca conversaciones"
 date = "2017-06-22"
 tags = ["sketchnoting"]
 categories = ["sketchnoting", "facilitacion-grafica"]
-banner = "img/openspace/os1.png"
+banner = "img/sketchnoting/image3.png"
 author = "Fernando Pérez Guajardo"
 +++
 
